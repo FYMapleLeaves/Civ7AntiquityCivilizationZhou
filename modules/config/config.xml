@@ -2,7 +2,7 @@
 <Database>
 	
 	<Civilizations>
-		<Row Domain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ZHOU_CHINA" CivilizationName="LOC_CIVILIZATION_ZHOU_CHINA_NAME" CivilizationFullName="LOC_CIVILIZATION_ZHOU_CHINA_FULLNAME" CivilizationDescription="LOC_CIVILIZATION_ZHOU_CHINA_DESCRIPTION" CivilizationIcon="civ_sym_zhou.png"/>
+		<Row Domain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ZHOU_CHINA" CivilizationName="LOC_CIVILIZATION_ZHOU_CHINA_NAME" CivilizationFullName="LOC_CIVILIZATION_ZHOU_CHINA_FULLNAME" CivilizationDescription="LOC_CIVILIZATION_ZHOU_CHINA_DESCRIPTION" CivilizationIcon="civ_sym_zhou_china"/>
 
 	</Civilizations>
 	<CivilizationItems>

@@ -4,94 +4,94 @@
 
         <!-- city names -->
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA1" >
-        <Text>HAOJING</Text>
+        <Text>Haojing</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA10" >
-        <Text>YU</Text>
+        <Text>Yu</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA11" >
-        <Text>WU</Text>
+        <Text>Wu</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA12" >
-        <Text>ZHENG</Text>
+        <Text>Zheng</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA13" >
-        <Text>SUI</Text>
+        <Text>Sui</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA14" >
-        <Text>LU</Text>
+        <Text>Lu</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA15" >
-        <Text>XING</Text>
+        <Text>Xing</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA16" >
-        <Text>CAI</Text>
+        <Text>Cai</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA17" >
-        <Text>CAO</Text>
+        <Text>Cao</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA18" >
-        <Text>ZHAO</Text>
+        <Text>Zhao</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA19" >
-        <Text>LUO</Text>
+        <Text>Luo</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA2" >
-        <Text>WEI</Text>
+        <Text>Wei</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA20" >
-        <Text>LIRONG</Text>
+        <Text>Lirong</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA21" >
-        <Text>SU</Text>
+        <Text>Su</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA22" >
-        <Text>CHU</Text>
+        <Text>Chu</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA23" >
-        <Text>ZHAO</Text>
+        <Text>Zhao</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA24" >
-        <Text>YAN</Text>
+        <Text>Yan</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA25" >
-        <Text>WEI</Text>
+        <Text>Wei</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA26" >
-        <Text>HAN</Text>
+        <Text>Han</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA27" >
-        <Text>JIN</Text>
+        <Text>Jin</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA28" >
-        <Text>HU</Text>
+        <Text>Hu</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA29" >
-        <Text>QI</Text>
+        <Text>Qi</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA3" >
-        <Text>SHEN</Text>
+        <Text>Shen</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA30" >
-        <Text>XU</Text>
+        <Text>Xu</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA4" >
-        <Text>CHEN</Text>
+        <Text>Chen</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA5" >
-        <Text>QI</Text>
+        <Text>Qi</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA6" >
-        <Text>YUE</Text>
+        <Text>Yue</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA7" >
-        <Text>SONG</Text>
+        <Text>Song</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA8" >
         <Text>Gija Joseon</Text>
         </Row>
         <Row Tag="LOC_CITY_NAME_ZHOU_CHINA9" >
-        <Text>QIN</Text>
+        <Text>Qin</Text>
         </Row>
 
         <!-- citizen names -->
@@ -273,7 +273,7 @@
 
         <!-- units -->
         <Row Tag="LOC_UNIT_ZHOU_CHARIOT_NAME" >
-            <Text>Yuanrong chariot</Text>
+            <Text>Yuanrong Chariot</Text>
         </Row>    
         <Row Tag="LOC_UNIT_ZHOU_CHARIOT_BASE_DESCRIPTION" >
             <Text>Zhou Unique Cavalry Unit. Higher Movement. +5 Combat Strength against Independents. Ignores Zone of Control.</Text>

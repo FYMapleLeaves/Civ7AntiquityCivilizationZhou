@@ -56,9 +56,15 @@
 					<Item>textures/buildicon_zongmiao.png</Item>
 					<Item>textures/unitflag_zhou_chariot.png</Item>
 					<Item>textures/unitflag_zhou_thinker.png</Item>
+
+					<Item>textures/TEXTURE_unitflag_zhou_chariot</Item>
+					<Item>textures/TEXTURE_unitflag_zhou_thinker</Item>
 					
 					<Item>textures/cult_zhou_china.png</Item>
-					<Item>textures/dip_cs_zhou_china.png</Item>
+					<Item>textures/dip_cs_zhou_china</Item>
+
+					<Item>textures/civ_sym_zhou_china</Item>
+
                 </ImportFiles>
 			</Actions>
 		</ActionGroup>
@@ -132,9 +138,14 @@
 					<Item>textures/buildicon_zongmiao.png</Item>
 					<Item>textures/unitflag_zhou_chariot.png</Item>
 					<Item>textures/unitflag_zhou_thinker.png</Item>
+
+					<Item>textures/TEXTURE_unitflag_zhou_chariot</Item>
+					<Item>textures/TEXTURE_unitflag_zhou_thinker</Item>
 					
 					<Item>textures/cult_zhou_china.png</Item>
-					<Item>textures/dip_cs_zhou_china.png</Item>
+					<Item>textures/dip_cs_zhou_china</Item>
+
+					<Item>textures/civ_sym_zhou_china</Item>					
                 </ImportFiles>
 				<UpdateIcons>
 					<Item>icons/icons.xml</Item>

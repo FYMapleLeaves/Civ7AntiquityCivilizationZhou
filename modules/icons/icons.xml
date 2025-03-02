@@ -4,11 +4,11 @@
 		<!-- Zhou -->
 		<Row>
 			<ID>ICON_CIVILIZATION_ZHOU_CHINA</ID>
-			<Path>fs://game/zhou-china/textures/civ_sym_zhou.png</Path>
+			<Path>fs://game/zhou-china/textures/civ_sym_zhou_china</Path>
 		</Row>
 		<Row>
 			<ID>CIVILIZATION_ZHOU_CHINA</ID>
-			<Path>fs://game/zhou-china/textures/civ_sym_zhou.png</Path>
+			<Path>fs://game/zhou-china/textures/civ_sym_zhou_china</Path>
 		</Row>
 		<Row>
 			<ID>CIVILIZATION_ZHOU_CHINA</ID>
@@ -21,6 +21,11 @@
 			<Context>BACKGROUND</Context>
 			<Path>fs://game/zhou-china/textures/lsbg_han_720.png</Path>
 			<IconSize>720</IconSize>
+		</Row>
+
+		<Row>
+			<ID>civ_sym_zhou_china</ID>
+			<Path>fs://game/zhou-china/textures/civ_sym_zhou_china</Path>
 		</Row>
 
 		<!-- buildings -->
@@ -44,9 +49,20 @@
 		</Row>
 
 		<Row>
+			<ID>TEXTURE_unitflag_zhou_chariot</ID>
+			<Path>fs://game/zhou-china/textures/TEXTURE_unitflag_zhou_chariot</Path>
+		</Row>
+
+		<Row>
 			<ID>UNIT_ZHOU_THINKER</ID>
 			<Path>fs://game/zhou-china/textures/unitflag_zhou_thinker.png</Path>
 		</Row>
+
+		<Row>
+			<ID>TEXTURE_unitflag_zhou_thinker</ID>
+			<Path>fs://game/zhou-china/textures/TEXTURE_unitflag_zhou_thinker</Path>
+		</Row>
+
 		<Row>
 			<ID>UNIT_ZHOU_THINKER_LAOZI</ID>
 			<Path>fs://game/zhou-china/textures/unitflag_zhou_thinker.png</Path>
@@ -110,7 +126,7 @@
 		<!-- diplomacy -->
 		<Row>
 			<ID>dip_cs_zhou_china</ID>
-			<Path>fs://game/zhou-china/textures/dip_cs_zhou_china.png</Path>
+			<Path>fs://game/zhou-china/textures/dip_cs_zhou_china</Path>
 		</Row>
 		
 		
